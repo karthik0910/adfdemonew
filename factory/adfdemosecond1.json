@@ -1,9 +1,0 @@
-{
-	"name": "adfdemosecond1",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "386162e6-d45a-4a72-b957-36ef585bd8ed",
-		"tenantId": "148682f5-dd41-4477-b781-867115198b06"
-	}
-}
